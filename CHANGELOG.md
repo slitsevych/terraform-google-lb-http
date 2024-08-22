@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [11.2.0](https://github.com/terraform-google-modules/terraform-google-lb-http/compare/v11.1.0...v11.2.0) (2024-08-22)
+
+
+### Features
+
+* Add creating serverless negs inside module/serverless-negs itself ([#438](https://github.com/terraform-google-modules/terraform-google-lb-http/issues/438)) ([ec0b73b](https://github.com/terraform-google-modules/terraform-google-lb-http/commit/ec0b73b05238d70e310bb35b28fce3dddea962f3))
+
 ## [11.1.0](https://github.com/terraform-google-modules/terraform-google-lb-http/compare/v11.0.0...v11.1.0) (2024-05-29)
 
 
